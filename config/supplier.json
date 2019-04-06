@@ -1,0 +1,21 @@
+{
+    "IdPaese":"",
+    "IdCodice":"",
+    "PIVA": "",
+    "Denominazione":"",
+    "Indirizzo":"",
+    "CAP":"",
+    "Comune": "",
+    "Provincia":"",
+    "Nazione":"",
+    "RegimeFiscale":"",
+    "IdTrasmittente": "",
+    "IscrizioneREA": {
+        "Ufficio": "",
+        "NumeroREA": "",
+        "CapitaleSociale": "",
+        "SocioUnico": "",
+        "StatoLiquidazione": ""
+    }
+}
+                

@@ -1,0 +1,55 @@
+{
+    "withConai": true,
+    "IdFattura": "ID",
+    "CessionarioCommittente": {
+        "Denominazione":"CognomeNome",
+        "Indirizzo":"Via",
+        "CAP":"CAP",
+        "Comune":"Città",
+        "Provincia":"Provincia",
+        "Nazione":"Stato",
+        "IdFiscaleIVAPaese":"Stato",
+        "IdFiscaleIVACodice":"PIVA",
+        "CodiceFiscale":"CF",
+        "PEC":"PEC",
+        "IdCodice": "IdCodice"
+    },
+    "DatiAnagraficiVettore":{
+        "IdPaese":"",
+        "IdCodice":"",
+        "DataOraConsegna":""
+    },
+    "DatiGeneraliDocumento":{
+        "TipoDocumento":"Valore",
+        "Data": "Data",
+        "Numero": "NFatt",
+        "Causale": "Annotaszioni"
+    },
+    "DatiBeniServizi":{
+        "Descrizione":"Descrizione",
+        "ItemDDTDescrizione": "ItemDDTDescrizione",
+        "Quantita":"Quantita",
+        "PrezzoUnitario":"Prezzo",
+        "PrezzoTotale":"TotRiga",
+        "AliquotaIVA":"Iva",
+        "UnitaMisura":"Um"
+    },
+    "DatiPagamento": {
+        "ModalitaPagamento":"ModalitaPagamento",
+        "DataScadenzaPagamento":"DataPagamento",
+        "GiorniTerminiPagamento": "GiorniTerminiPagamento",
+        "IBAN": "BancaAppoggio",
+        "ABI": "ABI",
+        "CAB": "CAB",
+        "BIC": "BIC"
+    },
+    "DatiDDT":{
+        "NumeroDDT":"NDDT",
+        "DataDDT":"DataDTT"
+    },
+    "DatiRiepilogo":{
+        "AliquotaIVA": "",
+        "ImponibileImporto": "",
+        "Imposta": ""
+    }
+}

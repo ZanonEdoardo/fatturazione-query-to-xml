@@ -1,0 +1,6 @@
+{
+  "workingDir": "./in",
+  "outDir": "./out",
+  "backupDir": "./backup",
+  "outnamefile": "ITPIVA"
+}
